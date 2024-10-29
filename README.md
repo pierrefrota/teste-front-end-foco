@@ -44,6 +44,7 @@ Nesta tela, o usuário deverá visualizar todas as reservas registradas. A inter
 
 - **Listagem das reservas:** As reservas serão buscadas no **localStorage** e exibidas na tela.
   - **Estrutura dos dados:** Deve seguir a estrutura da chave `reserve_list` no arquivo `./mock/reserve_data.json`
+- **Botão de Nova reserva:** Deve redirecionar para a tela de cadastro de reservas.
 - **Botão de ações:** 
   - **Cancelamento de reservas:** Oferecer a opção de cancelar reservas conforme necessário.
   - **Alteração de status:** Permitir que o usuário mude o status das reservas, facilitando o gerenciamento das operações.
